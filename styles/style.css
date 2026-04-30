@@ -4,10 +4,10 @@
   --primary-color: #1a3c5e;
   --secondary-color: #e8f0fe;
   --accent-color: #f4a020;
-  --text-color: #333333;
-  --white: #ffffff;
-  --font-main: Georgia, serif;
-  --font-nav: Arial, sans-serif;
+  --text-color: #333;
+  --white: #fff;
+  --font-main: georgia, serif;
+  --font-nav: arial, sans-serif;
 }
 
 * {
@@ -92,7 +92,7 @@ th {
 
 td {
   padding: 10px 12px;
-  border-bottom: 1px solid #dddddd;
+  border-bottom: 1px solid #ddd;
 }
 
 ul {
